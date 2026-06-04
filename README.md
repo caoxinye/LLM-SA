@@ -17,6 +17,9 @@ LLM‑SA 提供两个面向安全场景的 Agent，分别用于“策略生成�
 - 输出：每条输入对应的数值分（0–10，包含 Impact 与 Exploit 的合成分）
 - 依赖：基础模型与评分 LoRA（示例名称：`llama3_lora_scoring`）
 
+## data
+- 模型部分数据集
+
 ## 环境与依赖
 
 - Python ≥ 3.8
