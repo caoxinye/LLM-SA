@@ -1,4 +1,6 @@
 # Exploring LLM-Based Multi-Agent Situation Awareness for Zero-Trust Space-Air-Ground Integrated Network
+论文已发表在IEEE JSAC，链接：https://ieeexplore.ieee.org/document/10963886
+
 LLM‑SA 提供两个面向安全场景的 Agent，分别用于“策略生成”和“风险评分”。它们基于 `Meta‑Llama‑3‑8B‑Instruct` 与对应的 LoRA 适配权重进行推理。
 
 ## Strategy Agent
